@@ -1,14 +1,14 @@
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"  align="center" alt="drawing" width="250" />
- <h1>A Smart Fashion Recommender that recommend products based on CKN Method</h1>
+ <h1>A Smart Fashion Recommender that recommend products</h1>
  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.gif" alt="🍀" width="32" height="32">
-  LIVE LINK: http://bit.ly/3TTx7Vh
+       <h2>TEAM ID PNT2022TMID25168</h2>
  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.gif" alt="🍀" width="32" height="32">
- <h2>TEAM ID PNT2022TMID25168</h2>
+ 
  <h3>IBM-Project-54564-1662271812</h3>  
-<h2> Batch-B1</h2>
+<h2> Batch-B1-1M3E</h2>
 
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
@@ -22,22 +22,11 @@
 <h3> Saran N </h3>
    
  <br>
- 
- 
-
-<h2><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32">
-</picture>Youtube Link <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32"><i></h2>  
-
-
-
 
 ## Skills Required:
+
 IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docker,IBM DB2,IBM Container Registry
-   
- 
+
   <p align="center">
 <a href="https://www.ibm.com/in-en">
 <img src="https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&logo=IBM&logoColor=white"> 
@@ -94,7 +83,6 @@ IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docke
 - [x] Technology Stack <br>
 - [x] Customer Journey Map <br>
 
-
 <br>
  </div>
 <div>
@@ -104,11 +92,9 @@ IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docke
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64f_1f3fd/512.gif" alt="🙏" width="32" height="32">
 </picture> Contribution :</h2>
 
-
-
 ![](https://svgur.com/i/nQ2.svg)
- 
- <!--🦶FOOTER--> 
+
+ <!--🦶FOOTER-->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
 
 <!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
@@ -126,15 +112,13 @@ IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docke
 
   <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/phone-on.gif" />
  </div>
- 
-
 
 ## ✨ Start the app in Docker
 
-> 👉 **Step 1** - Download the code from the GH repository (using `GIT`) 
+> 👉 **Step 1** - Download the code from the GH repository (using `GIT`)
 
 ```bash
-$ git clone https://github.com/IBM-Project-54564-1662271812/Final Deliveries
+$ git clone https://github.com/IBM-EPBL/IBM-Project-54564-1662271812/Final Deliveries
 $ cd Final Deliveries
 ```
 
@@ -143,16 +127,16 @@ $ cd Final Deliveries
 > 👉 **Step 2** - Start the APP in `Docker`
 
 ```bash
-$ docker-compose up --build 
+$ docker-compose up --build
 ```
 
 Visit `http://localhost:5085` in your browser. The app should be up & running.
 
-<br /> 
+<br />
 
 ## ✨ How to use it
 
-> Download the code 
+> Download the code
 
 ```bash
 $ git clone https://github.com/IBM-Project-54564-1662271812/Final Deliveries
@@ -161,9 +145,9 @@ $ cd Final Deliveries
 
 <br />
 
-### 👉 Set Up for `Unix`, `MacOS` 
+### 👉 Set Up for `Unix`, `MacOS`
 
-> Install modules via `VENV`  
+> Install modules via `VENV`
 
 ```bash
 $ virtualenv env
@@ -188,13 +172,13 @@ $ export FLASK_ENV=development
 $ flask run
 ```
 
-At this point, the app runs at `http://127.0.0.1:5000/`. 
+At this point, the app runs at `http://127.0.0.1:5000/`.
 
 <br />
 
-### 👉 Set Up for `Windows` 
+### 👉 Set Up for `Windows`
 
-> Install modules via `VENV` (windows) 
+> Install modules via `VENV` (windows)
 
 ```
 $ virtualenv env
@@ -207,7 +191,7 @@ $ pip3 install -r requirements.txt
 > Set Up Flask Environment
 
 ```bash
-$ # CMD 
+$ # CMD
 $ set FLASK_APP=run.py
 $ set FLASK_ENV=development
 $
@@ -224,13 +208,13 @@ $ $env:FLASK_ENV = "development"
 $ flask run
 ```
 
-At this point, the app runs at `http://127.0.0.1:5000/`. 
+At this point, the app runs at `http://127.0.0.1:5000/`.
 
 <br />
 
 ### 👉 Create Users
 
-By default, the app redirects guest users to authenticate. In order to access the private pages, follow this set up: 
+By default, the app redirects guest users to authenticate. In order to access the private pages, follow this set up:
 
 - Start the app via `flask run`
 - Access the `registration` page and create a new user:
@@ -253,9 +237,9 @@ The project is coded using blueprints, app factory pattern, dual configuration p
    |    |    |-- routes.py                  # Define app routes
    |    |
    |    |-- authentication/                 # Handles auth routes (login and register)
-   |    |    |-- routes.py                  # Define authentication routes  
-   |    |    |-- models.py                  # Defines models  
-   |    |    |-- forms.py                   # Define auth forms (login and register) 
+   |    |    |-- routes.py                  # Define authentication routes
+   |    |    |-- models.py                  # Defines models
+   |    |    |-- forms.py                   # Define auth forms (login and register)
    |    |
    |    |-- static/
    |    |    |-- <css, JS, images>          # CSS files, Javascripts files
@@ -279,7 +263,7 @@ The project is coded using blueprints, app factory pattern, dual configuration p
    |    |         |-- index.html            # Index page
    |    |         |-- 404-page.html         # 404 page
    |    |         |-- *.html                # All other pages
-   |    |    
+   |    |
    |  config.py                             # Set up the app
    |    __init__.py                         # Initialize the app
    |
@@ -293,9 +277,8 @@ The project is coded using blueprints, app factory pattern, dual configuration p
 
 <br />
 
+**This blog is inspired by the research paper published by Myntra**
 
-
-**This blog is inspired by the research paper published by Myntra**  
 <p align="center">
 <a href="https://arxiv.org/pdf/2008.11638.pdf"><img src="https://i.imgur.com/FEklYUC.png">Buy Me That Look: An Approach for Recommending Fashion Products</a>
 </p> 
@@ -306,11 +289,13 @@ Have you ever looked at a model and wondered if you could ever look like him/her
 </p>
 
 ## Proposed Solution
+
 <p align="justify">
 The proposed solution is a Content-Based recommendation system that involves various modules that carry specific tasks that help in achieving the overall goal. For the system proposed in the published article by Myntra the first module consists of the Human Key Point Detection, looks for specific human key points like the ankle and the eyes in order to classify the image as a full-shot image i.e. an image that consists of the full body of a model, however the solution proposed in this blog skips this step, instead we'll recommend items using all the fashion products detected in an image. For better product recommendation we'll first try to determine the gender of the person in the query image. The pose can either be front, back, left, right or detailed. After determining the gender, the input is fed is then fed to the next module, it’s an Object Detection module trained to identify objects from these broad categories - top-wear, bottom-wear, and foot-wear. The goal of this module is not just the identification of these objects in the image but also to localize the objects with bounding-boxes. Once the bounding boxes are obtained for a certain object, that part of the image is cropped and the semantic embeddings for the cropped image are obtained, which will help in identifying similar products from the catalog/database of products whose semantic embeddings are already known. We'll train a Siamese Network for generating the embeddings for the catalog of images. This system helps in automatically and efficiently recommending new items to a user who has selected or shown interest in a certain product display page.
 </p>
 
 ## Data Acquisition
+
 <p align="justify">
 To get started with the Fashion Recommendation Engine, we'll need a catalog/database consisting of fashion products to recommend. Unless you have a database of these items lying around we'll need to acquire this data using simple web scraping tools in python. Since we'll focus on recommending items accross various categories we'll need a diverse set of fashion products to populate the database. We can use Myntra's e-commerce website to query images using specific keywords and later save the product details for the results obtained. This way we can categorize products into various sections which would make it easier while recommeding items. We'll use Selenium package from python, its the most popular browser automation tool mainly used to carry out web-product testing. For that we'll require webdriver, for chrome users, you can get it from <a href="https://chromedriver.chromium.org/">here</a>,  make sure the version that you download matches with the version of chrome on your computer. For more details on webscraping e-commerce websites using python follow this article "<a href="https://medium.com/analytics-vidhya/web-scraping-e-commerce-sites-using-selenium-python-55fd980fe2fc">Webscraping e-commerce websites using python</a>".  After scraping the image and product urls, you either use it to download the images into your local system or save the image and product urlspair to a flat file and use it later.
 </p>
@@ -349,10 +334,12 @@ for search_term in search_terms:
     except:
         break
 ```
+
 ## Exploratory Data Analysis
+
 <p align="justify">
 Now that we've gathered the catalog, lets do some exploratory analysis on it. The dataset consists of 10310 fashion products in various categories. The categories being:
-</p>    
+</p>
 
 <p align="center"><a href="https://imgur.com/bdbH1xs"><img src="https://i.imgur.com/bdbH1xs.png" title="source: imgur.com" /></a></p>
 
@@ -368,27 +355,27 @@ Now that we've gathered the catalog, lets do some exploratory analysis on it. Th
   
 <p align="justify">
 The fashion products are not equally split among the two genders, there are 5992 Mens Products whereas as just 4318 Womens products. The plot below is a visual representation of the products split by genders.
-</p> 
+</p>
 
 <p align="center"><a href="https://imgur.com/btlsNp5" align="center"><img src="https://i.imgur.com/btlsNp5.png" title="source: imgur.com" /></a></p>
 
 <p align="justify">
 Distribution across the categories of Topwear - 3770, Bottomwear - 3524 and Footwear - 3016.
-</p> 
+</p>
 
 <p align="center"><a href="https://imgur.com/FqAAPjC"><img src="https://i.imgur.com/FqAAPjC.png" title="source: imgur.com" /></a></p>
 
 <p align="justify">
 There is huge disparity in the distribution among the type of clothing. Around 60% of the fashion items are of type casual whereas formal and party wear occupy just 30% and 10% respectively. The recommendations for casual would obviously be better considering the variety of items present in them. Here's a visual representation.
-</p> 
+</p>
 
 <p align="center"><a href="https://imgur.com/nQ1iLwx"><img src="https://i.imgur.com/nQ1iLwx.png" title="source: imgur.com" /></a></p>
 
-
 ## Gender Classification
+
 <p align="justify">
 In order to recommend relevant items to the user we'll have to first detect the gender of the person present in the query image. Doing so will allow us to generate and query embeddings only on certain subsets of the catalog instead of the whole database. This will also help us in reducing irrelevant recommendations to the user based on their gender. For this task we'll make use of the <a href="https://www.kaggle.com/playlist/men-women-classification">Man/Woman classification dataset from Kaggle</a>. This is a manually collected and cleaned dataset containing 3354 pictures (jpg) of men (1414 files) and women (1940 files) that includes full body and upper body images of men and women. This is ideal for our use case since we'll mostly have full body images of models wearing various fashion items. For classification we can use a ResNET50 backbone initialized with 'Imagenet' weights attached to a fully connected network that outputs the probability scores for the two classes. We'll freeze all the layers from the backbone since the task is coparitively easy to achieve and inorder to avoid overfitting to this dataset. Below is a code snippet for the model used for classification. We are abe to achieve accuracy of 95% on the test set which is decent for our use case.
-</p>          
+</p>
 
 ```python
 from tensorflow.keras.models import Model
@@ -412,6 +399,7 @@ output = Dense(1, activation="sigmoid")(x)
 
 gender_classifier = Model(base_model.input, output, name="Gender_Classifier")
 ```
+
 <p align="center">
 <a href="https://imgur.com/WkLwNlj"><img width=400 height=300 src="https://i.imgur.com/WkLwNlj.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/1AhheVx"><img width=400 height=300 src="https://i.imgur.com/1AhheVx.png" title="source: imgur.com" /></a>
@@ -459,15 +447,14 @@ From the plot above we can see that RetinaNET has the highest mAP score of 40.8 
 Follow this blog for training an object detector using your custom dataset - "<a target="_blank" href="https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/">YOLOv5 Training for Custom Dataset</a>"</p>
 
 <p align="center"><img src="https://www.pyimagesearch.com/wp-content/uploads/2018/11/yolo_design.jpg"></p> 
-<p align="center"><a  target="_blank" href="https://arxiv.org/pdf/1506.02640v1.pdf">Source: YOLO - You Only Look Once</a></p>  
+<p align="center"><a  target="_blank" href="https://arxiv.org/pdf/1506.02640v1.pdf">Source: YOLO - You Only Look Once</a></p>
 
 <p align="justify">Code snippet for training YOLOv5 model on custom dataset using Pytorch and Ultralytics Github repo.</p>
-
 
 ```python
 !git clone https://github.com/ultralytics/yolov5
 %cd yolov5
-%pip install -qr requirements.txt 
+%pip install -qr requirements.txt
 
 import torch
 print('Setup complete. Using torch %s %s' % (torch.__version__, torch.cuda.get_device_properties(0) if torch.cuda.is_available() else 'CPU'))
@@ -480,7 +467,7 @@ print('Setup complete. Using torch %s %s' % (torch.__version__, torch.cuda.get_d
   
 <p align="justify">
 For training the custom Object Detection model we'll use Transfer Learning. We'll load YOLOv5s (s stands for small variant of YOLOv5) weights trained on the COCO Dataset and use transfer learning to fine-tune the model for our use case. I've created a dataset of 180 images (135 train and 45 validation) with annotated topwear, bottomwear and footwear.  We were able to achieve a mAP score of 0.94 @ 0.5 IoU threshold on a test set of 45 images. Here are some object detection results on topwear, bottomwear and footwear detection.
-</p>  
+</p>
 
 <p align="center">
 <a href="https://imgur.com/TGaoCEm"><img src="https://i.imgur.com/TGaoCEm.png" title="source: imgur.com" /></a>
@@ -493,7 +480,6 @@ For training the custom Object Detection model we'll use Transfer Learning. We'l
 <a href="https://imgur.com/k4GxQ86"><img src="https://i.imgur.com/k4GxQ86.png" width=312 height=500 title="source: imgur.com" /></a>
 <a href="https://imgur.com/DDlE3NB"><img src="https://i.imgur.com/DDlE3NB.png" width=312 height=500 title="source: imgur.com" /></a>
 </p>
-
 
 ## Embedding Generation
 
@@ -543,16 +529,17 @@ In order to convert images to n-dimensional vector representations of the images
 ```json
 Example (fashion.json):
 {
-    "product": "0027e30879ce3d87f82f699f148bff7e", 
-    "scene": "cdab9160072dd1800038227960ff6467", 
+    "product": "0027e30879ce3d87f82f699f148bff7e",
+    "scene": "cdab9160072dd1800038227960ff6467",
     "bbox": [
-        0.434097, 
-        0.859363, 
-        0.560254, 
+        0.434097,
+        0.859363,
+        0.560254,
         1.0
     ]
 }
 ```
+
 <p align="justify">We can easily create anchor and positive pairs from this dataset and for generating negative samples we can randomly select scenes from the dataset which is not same as the positive sample.</p>
 
 <p align="center">
@@ -658,10 +645,11 @@ class SiameseModel(Model):
     @property
     def metrics(self):
         return [self.loss_tracker]
-        
+
 siamese_model = SiameseModel(siamese_network)
 siamese_model.compile(optimizer=optimizers.Adam(1e-4))
 ```
+
 <p align="center">
 <a href="https://imgur.com/Mjfch11"><img width=250 height=150 src="https://i.imgur.com/Mjfch11.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/zViJebW"><img width=250 height=150 src="https://i.imgur.com/zViJebW.png" title="source: imgur.com" /></a>
@@ -671,6 +659,7 @@ siamese_model.compile(optimizer=optimizers.Adam(1e-4))
 <p align="justify">Having trained the embeddingg generation model, we have to generate and save embeddings for the catalog of fashion products.</p>
 
 ## Final Pipeline
+
 <p align="justify">
 Having generated and stored the embeddings for the catalog of fashion products, the final step is to combine all the modules into a pipeline that takes in a query image and outputs the relevant recommendations. Before we startpredicting from our saved tensorflow models we can further optimize them by using a technique called post training quantization. Post-training quantization is a conversion technique that can reduce model size while also improving CPU and hardware accelerator latency, with little degradation in model accuracy. One can quantize an already-trained float TensorFlow model when its converted to TensorFlow Lite format using the TensorFlow Lite Converter. We will reduce the size of a floating point model by quantizing the weights to float16, it can virtually reduce the model size by half by converting all the float32 weights to float16. The below code snippet can be used to quantize Tensorflow-Keras models to Tensorflow-Lite models - 
 </p>
@@ -694,7 +683,7 @@ tflite_model = tf_lite_converter.convert()
 open(TFLITE_MODEL_PATH, "wb").write(tflite_model)
 ```
 
-<p align="justify">We can use the following code snippet to load and predict using a Tensorflow-Lite model.</p>  
+<p align="justify">We can use the following code snippet to load and predict using a Tensorflow-Lite model.</p>
 
 ```python
 import tensorflow as tf
@@ -715,7 +704,7 @@ class TFLiteModel:
         self.interpreter.allocate_tensors()
         self.input_details = self.interpreter.get_input_details()
         self.output_details = self.interpreter.get_output_details()
-        
+
     def __call__(self, X):
         """
         Invoke the Tensorflow Lite model with the provided input and produce predictions/outputs
@@ -724,10 +713,11 @@ class TFLiteModel:
         self.interpreter.invoke()
         y = self.interpreter.get_tensor(self.output_details[0]['index'])
         return y
-        
+
 tflite_model = TFLiteModel(model_path=TFLITE_MODEL_PATH, batch_size=32, input_shape=(224,224,3), output_shape=(256,))
 outputs = tflite_model(inputs)
-```  
+```
+
 <p align="justify">Below are some plots showing the imporvements in the models after Post Training Quantization.</p>
 
 <p align="center"><img width=800 height=400 src="https://i.imgur.com/BZCxns7.png" title="source: imgur.com" /></p>   
@@ -741,7 +731,7 @@ outputs = tflite_model(inputs)
 <a href="https://imgur.com/7xvxyST"><img src="https://i.imgur.com/7xvxyST.png" title="source: imgur.com" /></a>
 </p>
 
-<p align="justify">Here are some example recommendations from the final pipeline. The first image is the query image followed by the recommendations</p>  
+<p align="justify">Here are some example recommendations from the final pipeline. The first image is the query image followed by the recommendations</p>
 
 <hr width=600 align="center">
 <p align="center">Query</p>
@@ -752,7 +742,6 @@ outputs = tflite_model(inputs)
 <a href="https://imgur.com/TABqgmQ"><img width=175 height=250 src="https://i.imgur.com/TABqgmQ.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/YXPYfu5"><img width=175 height=250 src="https://i.imgur.com/YXPYfu5.png" title="source: imgur.com" /></a>
 </p>
-
 
 <hr width=600 align="center">
 <p align="center">Query</p>
@@ -765,7 +754,6 @@ outputs = tflite_model(inputs)
 <a href="https://imgur.com/q9if7Ow"><img width=175 height=250 src="https://i.imgur.com/q9if7Ow.png" title="source: imgur.com" /></a>
 </p>
 
-
 <hr width=600 align="center">
 <p align="center">Query</p>
 <p align="center"><a href="https://imgur.com/dNAXuRE"><img width=200 height=300 src="https://i.imgur.com/dNAXuRE.png" title="source: imgur.com" /></a></p>
@@ -776,7 +764,6 @@ outputs = tflite_model(inputs)
 <a href="https://imgur.com/Bv5V3oe"><img width=175 height=250 src="https://i.imgur.com/Bv5V3oe.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/rkZuI4I"><img width=175 height=250 src="https://i.imgur.com/rkZuI4I.png" title="source: imgur.com" /></a>
 </p>
-
 
 <hr width=600 align="center">
 <p align="center">Query</p>
@@ -789,7 +776,7 @@ outputs = tflite_model(inputs)
 <a href="https://imgur.com/FFofHKn"><img width=175 height=250 src="https://i.imgur.com/FFofHKn.png" title="source: imgur.com" /></a>
 </p>
   
-## Further Imporvements & Future Work 
+## Further Imporvements & Future Work
 
 <p align="justify">
 This system can be considered as a POC (Proof of Concept) for image similarity based item recommendation engine, further improvements can be made by changing the existing modules with better performing alternatives as the time progresses. For example we can switvh the object detection pipeline to any SOTA algorithms of the time for better detections. similarly we can retrain the embedding generation model regularly from time to time as new products are being added to the catalog. The current object detection only detects topwear, bottomwear and footwear we can imporve it by adding specific classes instead of broad terms, like shirts, t-shirts, suits, pants, trouser, jeans, shoes and also support for other fashion accessories like handbags, sunglasses, watches etc. The STL-Dataset included lot of pairs where the product and the scene did not match, we can clean the dataset of such pairs and retrain the embedding generation model for higher number of epochs. Lastly we need to deploy this system for users to try it out.
@@ -810,9 +797,6 @@ This system can be considered as a POC (Proof of Concept) for image similarity b
 - [STL-Dataset](https://github.com/kang205/STL-Dataset)
 - [Keras Tutorial for image similarity calculation](https://keras.io/examples/vision/siamese_network/)
 
-
 <br>  
 <br>
 <br>
-
-
